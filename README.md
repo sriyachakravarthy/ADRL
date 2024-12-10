@@ -152,7 +152,7 @@ Implement conditional generation using classifier-guided diffusion. This method 
 
 ### Results:
 - **Conditional Generation:** Generated images conditioned on class labels.
-![image](https://github.com/user-attachments/assets/4c3b56b6-54ad-4272-861f-ce1dab085274)
+<img src="https://github.com/user-attachments/assets/4c3b56b6-54ad-4272-861f-ce1dab085274" alt="image" width="400"/>
 
 
 ## 6. Noise Conditional Score Network
