@@ -20,8 +20,10 @@ This contains the implementation of various experiments related to training a De
 
 ## Example Generated images
 
-![Output Image](C:/Users/Sriya/OneDrive/Desktop/for_git/ADRL/Outputs/output_dc_gan_butterflies.png)
-![Output Image](C:/Users/Sriya/OneDrive/Desktop/for_git/ADRL/Outputs/output_dc_gan_animals.png)
+
+![output_dc_gan_butterflies](https://github.com/user-attachments/assets/466d508f-8629-4cc6-9087-ab019e30a891)
+![output_dc_gan_animals](https://github.com/user-attachments/assets/e1aa0e69-55ca-4886-980b-7624bd079299)
+
 
 # Project2: Variational Autoencoder (VAE) and Related Experiments
 
