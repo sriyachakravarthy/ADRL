@@ -110,7 +110,7 @@ This project implements various experiments related to training and evaluating D
 8. [DDIM Inversion Method](#ddim-inversion-method)
 9. [ResNet-50 on Animal Dataset](#resnet-50-on-animal-dataset)
 10. [Distillation to MLP](#distillation-to-mlp)
-11. [i-JPEG on Animal Dataset](#i-jpeg-on-animal-dataset)
+
 
 ## 1. Training DDPM on the Butterfly Dataset
 
@@ -159,22 +159,16 @@ Implement conditional generation using classifier-guided diffusion. This method 
 
 Implement a Noise Conditional Score Network (NCSN) and repeat the above experiments. Compare the sampling procedures (speed and image quality) between the NCSN and DDPM.
 
-### Results:
-- **Sampling Comparison:** Comparison of sampling speed and generation quality (FID) between DDPM and NCSN.
 
-## 7. DDIM Sampler Comparison
-
-Using the same network trained for DDPM, implement a DDIM sampler and compare the generation quality (via FID) with the DDPM. No additional training is required for this step.
-
-### Results:
-- **DDIM vs DDPM Comparison:** FID scores comparing the quality of generated images between DDIM and DDPM.
-
-## 8. DDIM Inversion Method
+## 7. DDIM Inversion Method
 
 Implement a DDIM inversion method to get the latent vectors for a pair of real images. Perform linear interpolation in the latent space between these vectors and generate images corresponding to the interpolated latents.
 
-### Results:
-- **Latent Interpolation:** Generated images for interpolated latents between pairs of real images.
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/a302ccc8-851f-4eeb-8e41-c5356c928768">
+
+<img width="644" alt="image" src="https://github.com/user-attachments/assets/154466e5-ea83-4e7d-ac3e-ed2c4624abf1">
+
 
 ## 9. ResNet-50 on Animal Dataset
 
